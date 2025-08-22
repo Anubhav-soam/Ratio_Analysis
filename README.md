@@ -7,7 +7,8 @@ A Streamlit app to analyze financial statements of companies and compute key rat
 ## Features
 - View **Income Statement, Balance Sheet, Cash Flow** (last 5 years).
 - Compute financial ratios:
-  - Profitability: Gross Margin, ROA, ROE, Net Profit Margin ![Image](https://github.com/Anubhav-soam/Ratio_Analysis/blob/main/assets/download.png)
+  - Profitability: Gross Margin, ROA, ROE, Net Profit Margin
+ ![Image](https://github.com/Anubhav-soam/Ratio_Analysis/blob/main/assets/download.png)
   - Liquidity: Current Ratio, Quick Ratio, Cash Ratio
   - Leverage: Debt to Equity, Interest Coverage
   - Efficiency: Turnover Ratios, Cash Conversion Cycle
