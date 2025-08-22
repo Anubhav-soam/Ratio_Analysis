@@ -67,8 +67,6 @@ This project is useful for **finance students, analysts, and investors** who wan
 - **Dividend Yield** = Dividends ÷ Price  
 - **Market Cap** = Price × Shares Outstanding  
 
-![Market Ratios](https://raw.githubusercontent.com/Anubhav-soam/Ratio_Analysis/main/assets/download4.png)
-
 ---
 
 ### 📉 Interactive Charts
@@ -78,7 +76,8 @@ This project is useful for **finance students, analysts, and investors** who wan
 ---
 
 ### 📥 Download Results
-- Export **all ratios** into a CSV file for offline use.  
+- Export **all ratios** into a CSV file for offline use.
+![Market Ratios](https://raw.githubusercontent.com/Anubhav-soam/Ratio_Analysis/main/assets/download4.png)
 
 ---
 
