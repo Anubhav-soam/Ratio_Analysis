@@ -14,9 +14,11 @@ A Streamlit app to analyze financial statements of companies and compute key rat
   - Leverage: Debt to Equity, Interest Coverage
  ![Image](https://github.com/Anubhav-soam/Ratio_Analysis/blob/main/assets/download2.png)
   - Efficiency: Turnover Ratios, Cash Conversion Cycle
+ ![Image](https://github.com/Anubhav-soam/Ratio_Analysis/blob/main/assets/download3.png)
 - Optional market ratios: P/E, P/B, Dividend Yield.
 - Interactive charts and tables.
 - Download results as CSV.
+ ![Image](https://github.com/Anubhav-soam/Ratio_Analysis/blob/main/assets/download4.png)
 
 ---
 
